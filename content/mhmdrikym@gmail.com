@@ -140,7 +140,9 @@ In this walk-through, you should not have any conflicts, so you are ready to mer
 
 By completing this tutorial, you've learned to create a project and make a pull request on {% data variables.product.product_name %}.
 
-Here's what you accomplished in this tutorial:
+Here's what you accomplished in this tut
+
+orial:
 
 * Created an open source repository
 * Started and managed a new branch
